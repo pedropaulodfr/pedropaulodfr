@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-Eu moro no Rio Grande do Norte, Brasil e trabalho na CSJ Sistemas  
+Eu moro no Rio Grande do Norte, Brasil e trabalho na CSJ Sistemas.
 </p>
 
 <p align="center">

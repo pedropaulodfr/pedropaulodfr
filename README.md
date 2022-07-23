@@ -24,7 +24,16 @@ Eu moro no Rio Grande do Norte, Brasil e trabalho na CSJ Sistemas.
 
 ## 🚀💻 Tecnologias & Ferramentas
 
-<img src="https://mauriciomikulski.github.io/img/logos/html.png" width="50" height="50" /><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50" height="50" /><img src="https://user-images.githubusercontent.com/29920024/180448546-fe814091-61a0-4c00-b9b3-f543b1c6428c.png" width="50" height="50" /><img src="https://user-images.githubusercontent.com/29920024/180449638-8a16f7ff-298c-4df2-8f93-8c8fe941316a.png" width="50" height="50"/><img src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" width="55" height="45"/><img src="https://loukis-13.github.io/img/logos/Python.png" width="50" height="50" /><img src="https://res.cloudinary.com/appmasters-io/image/upload/v1624744345/mysql_87a2317566.png" width="50" height="50" /><img src="https://user-images.githubusercontent.com/29920024/180453068-bcd0dcfe-0a19-46ab-a246-14b0b5e66500.png" width="50" height="50" /><img src="https://i.pinimg.com/originals/13/a8/94/13a89487b6a28c9fd6fee57cf6bc5e2c.png" width="50" height="50" /><img src="https://cordova.apache.org/static/img/cordova_bot.png" width="45" height="50" />
+<img src="https://mauriciomikulski.github.io/img/logos/html.png" width="30" height="30" /> HTML  
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="30" height="30" /> CSS  
+<img src="https://user-images.githubusercontent.com/29920024/180448546-fe814091-61a0-4c00-b9b3-f543b1c6428c.png" width="30" height="30" /> JavaScript  
+<img src="https://user-images.githubusercontent.com/29920024/180449638-8a16f7ff-298c-4df2-8f93-8c8fe941316a.png" width="30" height="30"/> Node.js  
+<img src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" width="35" height="25"/> PHP  
+<img src="https://loukis-13.github.io/img/logos/Python.png" width="30" height="30" /> Python  
+<img src="https://res.cloudinary.com/appmasters-io/image/upload/v1624744345/mysql_87a2317566.png" width="30" height="30" /> MySQL  
+<img src="https://user-images.githubusercontent.com/29920024/180453068-bcd0dcfe-0a19-46ab-a246-14b0b5e66500.png" width="30" height="30" /> PostgreSQL  
+<img src="https://i.pinimg.com/originals/13/a8/94/13a89487b6a28c9fd6fee57cf6bc5e2c.png" width="30" height="30" /> C  
+<img src="https://cordova.apache.org/static/img/cordova_bot.png" width="25" height="30" /> Apache Codorva  
 
 <!---
 pedropaulodfr/pedropaulodfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

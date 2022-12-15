@@ -28,10 +28,11 @@ Eu moro no Rio Grande do Norte, Brasil e trabalho na CSJ Sistemas.
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="30" height="30" /> CSS  
 <img src="https://user-images.githubusercontent.com/29920024/180448546-fe814091-61a0-4c00-b9b3-f543b1c6428c.png" width="30" height="30" /> JavaScript  
 <img src="https://user-images.githubusercontent.com/29920024/180449638-8a16f7ff-298c-4df2-8f93-8c8fe941316a.png" width="30" height="30"/> Node.js  
-<img src="https://loukis-13.github.io/img/logos/Python.png" width="30" height="30" /> Python  
+<img src="https://user-images.githubusercontent.com/29920024/207874008-f1cde68d-b6f8-459e-9630-c10b6a9a8323.png" width="30" height="30" /> Python  
 <img src="https://res.cloudinary.com/appmasters-io/image/upload/v1624744345/mysql_87a2317566.png" width="30" height="30" /> MySQL  
 <img src="https://user-images.githubusercontent.com/29920024/180453068-bcd0dcfe-0a19-46ab-a246-14b0b5e66500.png" width="30" height="30" /> PostgreSQL  
 <img src="https://cordova.apache.org/static/img/cordova_bot.png" width="25" height="30" /> Apache Codorva  
+
 
 <!---
 pedropaulodfr/pedropaulodfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
